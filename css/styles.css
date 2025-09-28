@@ -27,6 +27,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
+color: #2e2f42;
 }
 .link-name:hover,
 .link-name:focus{
@@ -83,13 +84,15 @@ font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
+color: #2e2f42;
 }
 .feature-description{
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455}
+color: #2e2f42;
+}
 .team-title-section{
 background: #f4f4fd;
 }
@@ -99,6 +102,7 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align:center;
 text-transform:capitalize;
+color: #2e2f42;
 }
 .img-item{
     background: #ffffff;
@@ -108,13 +112,14 @@ font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
+color: #2e2f42;
 }
 .text-title{
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455;
+color: #2e2f42;
 }
 
 .portfolio-title{
@@ -122,7 +127,8 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-align:center;
-text-transform:capitalize
+text-transform:capitalize;
+color: #2e2f42;
 }
 .portfolio-item{
     background-color: #ffffff;
