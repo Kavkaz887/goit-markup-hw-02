@@ -36,7 +36,9 @@ color: #2e2f42;
 .link-name:focus{
 color: #404bbf;
 }
-
+.address-link{
+background: #ffffff;
+}
 .link-item{
 font-weight: 400;
 font-size: 16px;
